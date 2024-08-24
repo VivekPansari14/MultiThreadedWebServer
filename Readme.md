@@ -21,8 +21,8 @@ This project is a basic multi-threaded web server implemented in C. The server l
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/VivekPansari14/MultiThreadedWebServer.git>
+   cd <MultiThreadedWebServer>
    ```
 
 2. **Compile the Code:**
