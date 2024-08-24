@@ -1,6 +1,3 @@
-Here is the `README.md` file content for your multi-threaded web server project:
-
-```markdown
 # Multi-Threaded Web Server
 
 ## Overview
