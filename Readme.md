@@ -82,10 +82,3 @@ Feel free to fork the repository and submit pull requests with improvements or n
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or comments, you can reach out to [your-email@example.com].
-```
-
-Replace `<repository-url>`, `<repository-directory>`, and `[your-email@example.com]` with your actual repository URL, directory name, and contact email. Save this content in a file named `README.md` in the root directory of your project.
